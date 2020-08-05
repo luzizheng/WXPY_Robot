@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a1e1cf9-b5d6-420e-8e42-f2d805fc87af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wx_robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/wx_robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baidu_utils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -44,6 +44,18 @@
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -115,8 +127,8 @@
       <find>config_result</find>
       <find>object_keyword</find>
       <find>answer</find>
-      <find>label_detect</find>
       <find>check_switch</find>
+      <find>label_detect</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -137,6 +149,7 @@
         <option value="$PROJECT_DIR$/react_words.json" />
         <option value="$PROJECT_DIR$/wx_robot.py" />
         <option value="$PROJECT_DIR$/baidu_utils.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -183,6 +196,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="RSettings" />
   </component>
@@ -340,12 +354,12 @@
     <frame x="1962" y="-156" width="1398" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7876923" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7876923" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.5019685" side_tool="true" weight="0.21163575" />
       <window_info id="Favorites" order="2" sideWeight="0.21230769" side_tool="true" weight="0.25057122" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.42699116" visible="true" weight="0.3400901" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.42699116" visible="true" weight="0.3400901" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,14 +410,6 @@
     <entry file="file://$PROJECT_DIR$/custom_engine_demo.py" />
     <entry file="file://$PROJECT_DIR$/unitest_demo.py" />
     <entry file="file://$PROJECT_DIR$/requirements.txt" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126/builtins.py" />
     <entry file="file:///usr/local/lib/python3.7/site-packages/wxpy/api/consts.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -513,6 +519,16 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
