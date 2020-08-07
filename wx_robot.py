@@ -14,18 +14,21 @@ from wxpy import *
 robot_running = True
 bot = Bot()
 
-group_1 = bot.groups().search('学习强国')[0]
-group_2 = bot.groups().search('股票小作手')[0]
-group_3 = bot.groups().search('广东云世艺金融中心')[0]
-group_4 = bot.groups().search('Family')[0]
+# group_1 = bot.groups().search('学习强国')[0]
+# group_2 = bot.groups().search('股票小作手')[0]
+# group_3 = bot.groups().search('广东云世艺金融中心')[0]
+# group_4 = bot.groups().search('Family')[0]
 # group_4 = bot.groups().search('Family')[0]
 # group_5 = bot.groups().search('佛山')[0]
-group_test = bot.groups().search('AI测试')[0]
+# group_test = bot.groups().search('AI测试')[0]
 # 不用艾特也可以接受消息的群组
 # group_free = [group_1,group_2,group_3,group_4,group_test]
-group_free = bot.groups()
+
 # foshan_group = bot.groups().search('图灵测试')
 # boss = foshan_group.search(u'Luzz')[0]
+
+group_free = bot.groups()
+
 tuling = Tuling(api_key='14140652801d4be19664ad1c314e50c0')
 
 akey = '3rnZkBSzg5XtyihO'
